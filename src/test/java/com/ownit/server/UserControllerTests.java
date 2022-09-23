@@ -40,7 +40,6 @@ import java.util.List;
 @SpringBootTest(classes = UserController.class)
 @AutoConfigureMockMvc
 public class UserControllerTests {
-
 //	@Autowired
 //	MockMvc mockMvc;
 //
